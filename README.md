@@ -6,4 +6,5 @@
 
 - The program will display each expression to be evaluate and the arithmetic result. 
 
+
 <img src = "operationsVid.gif">
